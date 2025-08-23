@@ -6,7 +6,7 @@ echo "Installing consciousness-engineered templates..."
 echo ""
 
 # Check if Ableton Live 12 is installed
-if [ -d "/Applications/Ableton Live 12.app" ]; then
+if [ -d "Macintosh HD/Applications/Ableton Live 12.app" ]; then
     echo "✅ Ableton Live 12 detected"
 else
     echo "❌ Ableton Live 12 not found"
